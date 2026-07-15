@@ -18,6 +18,7 @@ Explanation: Here among 2, 4, 6 only 2 divides 2446 evenly while 4 and 6 do not.
 Input: n = 23
 Output: 0
 Explanation: 2 and 3, none of them divide 23 evenly.
+
 Constraints:
 1<= n <=106
 
