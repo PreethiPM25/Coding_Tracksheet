@@ -1,4 +1,5 @@
-Problem
+Problem:
+
 Given an integer N, determine whether it is an Armstrong number.
 For a 3-digit number, the sum of cubes of its digits must equal the number.
 
